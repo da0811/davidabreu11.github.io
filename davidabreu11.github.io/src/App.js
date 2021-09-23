@@ -1,4 +1,4 @@
-import logo from './jammin-gato.gif';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My name is David and I'm going to master React!
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
